@@ -28,6 +28,7 @@ Adjusted size & position for consistent layout.
 Applied formatting (background, borders, font).
 
 Visuals
+https://github.com/user-attachments/assets/99e4b218-999f-48c4-aa2f-458bac4b07fc
 
 📈 Line Chart → Monthly Amount
 
