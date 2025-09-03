@@ -32,7 +32,10 @@ The goal was to analyze **UPI transaction data** and build an **interactive dash
 - Applied **formatting** (background, borders, font).  
 
 #### 🔹 Visuals  
-![Dashboard Screenshot](https://github.com/user-attachments/assets/99e4b218-999f-48c4-aa2f-458bac4b07fc)  
+
+<img width="1304" height="728" alt="Screenshot 2025-09-03 142812" src="https://github.com/user-attachments/assets/25dc78f6-1dcc-439e-91d7-5a9ba4bce514" /><img width="1307" height="723" alt="Screenshot 2025-09-03 142836" src="https://github.com/user-attachments/assets/7a79c94f-3e9b-4615-a3ca-f45bb0201924" />
+<img width="1306" height="728" alt="Screenshot 2025-09-03 142909" src="https://github.com/user-attachments/assets/0d2b8929-8d4b-41bb-9ca4-f5f01b11f366" />
+
 
 - 📈 **Line Chart** → Monthly Amount  
 - 📊 **Matrix Visual** → Transactions by Month, City, Currency  
@@ -70,10 +73,6 @@ The goal was to analyze **UPI transaction data** and build an **interactive dash
 
 ## 🎯 Skills Highlighted  
 - Data Profiling  
-
-https://github.com/user-attachments/assets/0a7b2950-3cff-4e82-9472-527c51819566
-
-
 - Dashboard Design & Visualization  
 - Slicer Syncing & Formatting  
 - Conditional Formatting  
